@@ -1,13 +1,4 @@
 ### Hi there 👋
-# aprendizaje-node-js
-
-const crisdev = {
-  pronouns: "He" | "His",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node, Storybook, Docker],
- 
- Learnings: "About NodeJS."
-}
 <!--
 **crisdev-ec/crisdev-ec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
