@@ -1,5 +1,5 @@
 <h1 align="center">Hello, how are you? 👋 I'm Cristian Velepucha</h1>
-<h3 align="center">Passionate about Innovation and Technology from Ecuador</h3>
+<h3 align="center">Passionate about Innovation and Technology. I'm a developer from Ecuador.</h3>
 
 - 💻 I’m currently working on **Tech Startp**
 
